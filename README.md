@@ -102,3 +102,6 @@ print(car_parts)
 car_parts.discard("wheels")
 print(car_parts)
 ```
+
+- Python also has frozen sets
+- syntax `name = value([1, 2, 3, 4])`
